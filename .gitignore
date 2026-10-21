@@ -1,0 +1,19 @@
+# Python environment and cache
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+
+# Secrets
+**/.env
+**/.env.*
+
+# Vector database
+**/chroma_db/
+
+# Uploaded documents
+**/data/
+*.pdf
+
+# VS Code settings
+.vscode/
